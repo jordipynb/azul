@@ -1,0 +1,3072 @@
+Inicia Simulacion
+Ronda: 1
+Accion: Bolsa Rellenada
+Accion: Fabricas Rellenadas
+Fabrica 9: negro:0 azul:1 amarillo:0 rojo:3 celeste:0
+Fabrica 8: negro:2 azul:0 amarillo:1 rojo:1 celeste:0
+Fabrica 7: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 6: negro:1 azul:1 amarillo:1 rojo:1 celeste:0
+Fabrica 5: negro:1 azul:1 amarillo:0 rojo:1 celeste:1
+Fabrica 4: negro:2 azul:0 amarillo:0 rojo:1 celeste:1
+Fabrica 3: negro:1 azul:1 amarillo:1 rojo:0 celeste:1
+Fabrica 2: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 1: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Jugador Inicial: 1
+
+Tablero del Jugador 3
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+Tablero del Jugador 2
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+Tablero del Jugador 1
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+Tablero del Jugador 0
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega de la Fabrica 9 el azulejo rojo al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:2 azul:0 amarillo:1 rojo:1 celeste:0
+Fabrica 7: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 6: negro:1 azul:1 amarillo:1 rojo:1 celeste:0
+Fabrica 5: negro:1 azul:1 amarillo:0 rojo:1 celeste:1
+Fabrica 4: negro:2 azul:0 amarillo:0 rojo:1 celeste:1
+Fabrica 3: negro:1 azul:1 amarillo:1 rojo:0 celeste:1
+Fabrica 2: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 1: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Centro negro:0 azul:1 amarillo:0 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 rojo:3
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega de la Fabrica 8 el azulejo rojo al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 6: negro:1 azul:1 amarillo:1 rojo:1 celeste:0
+Fabrica 5: negro:1 azul:1 amarillo:0 rojo:1 celeste:1
+Fabrica 4: negro:2 azul:0 amarillo:0 rojo:1 celeste:1
+Fabrica 3: negro:1 azul:1 amarillo:1 rojo:0 celeste:1
+Fabrica 2: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 1: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Centro negro:2 azul:1 amarillo:1 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega de la Fabrica 7 el azulejo celeste al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:1 azul:1 amarillo:1 rojo:1 celeste:0
+Fabrica 5: negro:1 azul:1 amarillo:0 rojo:1 celeste:1
+Fabrica 4: negro:2 azul:0 amarillo:0 rojo:1 celeste:1
+Fabrica 3: negro:1 azul:1 amarillo:1 rojo:0 celeste:1
+Fabrica 2: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 1: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Centro negro:3 azul:2 amarillo:1 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 celeste:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega de la Fabrica 6 el azulejo rojo al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:1 azul:1 amarillo:0 rojo:1 celeste:1
+Fabrica 4: negro:2 azul:0 amarillo:0 rojo:1 celeste:1
+Fabrica 3: negro:1 azul:1 amarillo:1 rojo:0 celeste:1
+Fabrica 2: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 1: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Centro negro:4 azul:3 amarillo:2 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega de la Fabrica 5 el azulejo celeste al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:2 azul:0 amarillo:0 rojo:1 celeste:1
+Fabrica 3: negro:1 azul:1 amarillo:1 rojo:0 celeste:1
+Fabrica 2: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 1: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Centro negro:5 azul:4 amarillo:2 rojo:1 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 celeste:1
+Fila 2 none:0
+Fila 3 rojo:3
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega de la Fabrica 4 el azulejo negro al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:1 azul:1 amarillo:1 rojo:0 celeste:1
+Fabrica 2: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 1: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Centro negro:5 azul:4 amarillo:2 rojo:2 celeste:1
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 negro:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega de la Fabrica 3 el azulejo celeste al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 1: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Centro negro:6 azul:5 amarillo:3 rojo:2 celeste:1
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 celeste:1
+Fila 2 celeste:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega de la Fabrica 2 el azulejo celeste al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Centro negro:7 azul:6 amarillo:3 rojo:2 celeste:1
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 celeste:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega del Centro el azulejo rojo al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Centro negro:7 azul:6 amarillo:3 rojo:0 celeste:1
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 celeste:1
+Fila 2 rojo:2
+Fila 3 rojo:3
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega del Centro el azulejo amarillo al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Centro negro:7 azul:6 amarillo:0 rojo:0 celeste:1
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 negro:2
+Fila 3 amarillo:3
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega del Centro el azulejo celeste al patron en la fila 5
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Centro negro:7 azul:6 amarillo:0 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 celeste:1
+Fila 2 celeste:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega del Centro el azulejo azul al patron en la fila 5
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Centro negro:7 azul:0 amarillo:0 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 celeste:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 azul:5
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega de la Fabrica 1 el azulejo celeste al patron en la fila 5
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:8 azul:0 amarillo:1 rojo:1 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 celeste:1
+Fila 2 rojo:2
+Fila 3 rojo:3
+Fila 4 none:0
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega del Centro el azulejo rojo al patron en la fila 5
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:8 azul:0 amarillo:1 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 negro:2
+Fila 3 amarillo:3
+Fila 4 none:0
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega del Centro el azulejo amarillo al patron en la fila 4
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:8 azul:0 amarillo:0 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 celeste:1
+Fila 2 celeste:2
+Fila 3 none:0
+Fila 4 amarillo:1
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega del Centro el azulejo negro al patron en la fila 4
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 celeste:2
+Fila 3 none:0
+Fila 4 negro:4
+Fila 5 azul:5
+============================================
+MURO
+Fila 1 none none none none none
+Fila 2 none none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 5
+
+
+Ronda: 2
+Accion: Bolsa Rellenada
+Accion: Fabricas Rellenadas
+Fabrica 9: negro:2 azul:0 amarillo:0 rojo:0 celeste:2
+Fabrica 8: negro:1 azul:1 amarillo:2 rojo:0 celeste:0
+Fabrica 7: negro:1 azul:2 amarillo:0 rojo:0 celeste:1
+Fabrica 6: negro:2 azul:0 amarillo:0 rojo:0 celeste:2
+Fabrica 5: negro:0 azul:0 amarillo:1 rojo:2 celeste:1
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 3: negro:0 azul:1 amarillo:1 rojo:1 celeste:1
+Fabrica 2: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 1: negro:1 azul:1 amarillo:0 rojo:2 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Jugador Inicial: 1
+
+Tablero del Jugador 3
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 amarillo:1
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none none celeste
+Fila 2 celeste none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+Tablero del Jugador 2
+Estado del Tablero del Jugador
+PUNTUACION: 3
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none rojo none none
+Fila 2 none none none none negro
+Fila 3 none none none amarillo none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+Tablero del Jugador 1
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none none celeste
+Fila 2 none none none rojo none
+Fila 3 none none none none rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+Tablero del Jugador 0
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none rojo none none
+Fila 2 celeste none none none none
+Fila 3 none none none none none
+Fila 4 none negro none none none
+Fila 5 none none none none azul
+============================================
+SUELO: 0
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega de la Fabrica 9 el azulejo negro al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:1 azul:1 amarillo:2 rojo:0 celeste:0
+Fabrica 7: negro:1 azul:2 amarillo:0 rojo:0 celeste:1
+Fabrica 6: negro:2 azul:0 amarillo:0 rojo:0 celeste:2
+Fabrica 5: negro:0 azul:0 amarillo:1 rojo:2 celeste:1
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 3: negro:0 azul:1 amarillo:1 rojo:1 celeste:1
+Fabrica 2: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 1: negro:1 azul:1 amarillo:0 rojo:2 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:2
+
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 negro:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none none celeste
+Fila 2 none none none rojo none
+Fila 3 none none none none rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega de la Fabrica 5 el azulejo rojo al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:1 azul:1 amarillo:2 rojo:0 celeste:0
+Fabrica 7: negro:1 azul:2 amarillo:0 rojo:0 celeste:1
+Fabrica 6: negro:2 azul:0 amarillo:0 rojo:0 celeste:2
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 3: negro:0 azul:1 amarillo:1 rojo:1 celeste:1
+Fabrica 2: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 1: negro:1 azul:1 amarillo:0 rojo:2 celeste:0
+Centro negro:0 azul:0 amarillo:1 rojo:0 celeste:3
+
+Estado del Tablero del Jugador
+PUNTUACION: 3
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 rojo:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none rojo none none
+Fila 2 none none none none negro
+Fila 3 none none none amarillo none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega de la Fabrica 8 el azulejo azul al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:1 azul:2 amarillo:0 rojo:0 celeste:1
+Fabrica 6: negro:2 azul:0 amarillo:0 rojo:0 celeste:2
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 3: negro:0 azul:1 amarillo:1 rojo:1 celeste:1
+Fabrica 2: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 1: negro:1 azul:1 amarillo:0 rojo:2 celeste:0
+Centro negro:1 azul:0 amarillo:3 rojo:0 celeste:3
+
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 azul:1
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 amarillo:1
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none none celeste
+Fila 2 celeste none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega de la Fabrica 7 el azulejo azul al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:2 azul:0 amarillo:0 rojo:0 celeste:2
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 3: negro:0 azul:1 amarillo:1 rojo:1 celeste:1
+Fabrica 2: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 1: negro:1 azul:1 amarillo:0 rojo:2 celeste:0
+Centro negro:2 azul:0 amarillo:3 rojo:0 celeste:4
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 azul:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none rojo none none
+Fila 2 celeste none none none none
+Fila 3 none none none none none
+Fila 4 none negro none none none
+Fila 5 none none none none azul
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega de la Fabrica 1 el azulejo negro al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:2 azul:0 amarillo:0 rojo:0 celeste:2
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 3: negro:0 azul:1 amarillo:1 rojo:1 celeste:1
+Fabrica 2: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:2 azul:1 amarillo:3 rojo:2 celeste:4
+
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 negro:1
+Fila 2 negro:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none none celeste
+Fila 2 none none none rojo none
+Fila 3 none none none none rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega de la Fabrica 3 el azulejo celeste al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:2 azul:0 amarillo:0 rojo:0 celeste:2
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:2 azul:2 amarillo:4 rojo:3 celeste:4
+
+Estado del Tablero del Jugador
+PUNTUACION: 3
+============================================
+PATRONES
+Fila 1 celeste:1
+Fila 2 rojo:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none rojo none none
+Fila 2 none none none none negro
+Fila 3 none none none amarillo none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega de la Fabrica 6 el azulejo negro al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:2 azul:2 amarillo:4 rojo:3 celeste:6
+
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 azul:1
+Fila 2 negro:2
+Fila 3 none:0
+Fila 4 amarillo:1
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none none celeste
+Fila 2 celeste none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega de la Fabrica 2 el azulejo amarillo al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:2 azul:3 amarillo:4 rojo:3 celeste:8
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 amarillo:1
+Fila 2 azul:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none rojo none none
+Fila 2 celeste none none none none
+Fila 3 none none none none none
+Fila 4 none negro none none none
+Fila 5 none none none none azul
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega del Centro el azulejo amarillo al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:2 azul:3 amarillo:0 rojo:3 celeste:8
+
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 negro:1
+Fila 2 negro:2
+Fila 3 amarillo:3
+Fila 4 none:0
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none none celeste
+Fila 2 none none none rojo none
+Fila 3 none none none none rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 2
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega del Centro el azulejo rojo al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:2 azul:3 amarillo:0 rojo:0 celeste:8
+
+Estado del Tablero del Jugador
+PUNTUACION: 3
+============================================
+PATRONES
+Fila 1 celeste:1
+Fila 2 rojo:2
+Fila 3 rojo:3
+Fila 4 none:0
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none rojo none none
+Fila 2 none none none none negro
+Fila 3 none none none amarillo none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega del Centro el azulejo azul al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:2 azul:0 amarillo:0 rojo:0 celeste:8
+
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 azul:1
+Fila 2 negro:2
+Fila 3 azul:3
+Fila 4 amarillo:1
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none none celeste
+Fila 2 celeste none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega del Centro el azulejo negro al patron en la fila 5
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:8
+
+Estado del Tablero del Jugador
+PUNTUACION: 0
+============================================
+PATRONES
+Fila 1 amarillo:1
+Fila 2 azul:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 none none rojo none none
+Fila 2 celeste none none none none
+Fila 3 none none none none none
+Fila 4 none negro none none none
+Fila 5 none none none none azul
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega de la Fabrica 4 el azulejo rojo al patron en la fila 4
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:0 amarillo:2 rojo:0 celeste:8
+
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 negro:1
+Fila 2 negro:2
+Fila 3 amarillo:3
+Fila 4 rojo:2
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none none celeste
+Fila 2 none none none rojo none
+Fila 3 none none none none rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 2
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega del Centro el azulejo amarillo al patron en la fila 4
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:8
+
+Estado del Tablero del Jugador
+PUNTUACION: 3
+============================================
+PATRONES
+Fila 1 celeste:1
+Fila 2 rojo:2
+Fila 3 rojo:3
+Fila 4 amarillo:2
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none rojo none none
+Fila 2 none none none none negro
+Fila 3 none none none amarillo none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega del Centro el azulejo celeste al patron en la fila 5
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 azul:1
+Fila 2 negro:2
+Fila 3 azul:3
+Fila 4 amarillo:1
+Fila 5 celeste:5
+============================================
+MURO
+Fila 1 none none none none celeste
+Fila 2 celeste none none none none
+Fila 3 none none none none none
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 4
+
+
+Ronda: 3
+Accion: Bolsa Rellenada
+Accion: Fabricas Rellenadas
+Fabrica 9: negro:1 azul:0 amarillo:2 rojo:0 celeste:1
+Fabrica 8: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Fabrica 7: negro:1 azul:1 amarillo:1 rojo:0 celeste:1
+Fabrica 6: negro:2 azul:0 amarillo:1 rojo:0 celeste:1
+Fabrica 5: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 4: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 3: negro:0 azul:1 amarillo:3 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:2 rojo:0 celeste:2
+Fabrica 1: negro:0 azul:1 amarillo:1 rojo:2 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Jugador Inicial: 1
+
+Tablero del Jugador 3
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 amarillo:1
+Fila 5 none:0
+============================================
+MURO
+Fila 1 azul none none none celeste
+Fila 2 celeste none none none negro
+Fila 3 none none azul none none
+Fila 4 none none none none none
+Fila 5 none none none celeste none
+============================================
+SUELO: 0
+
+Tablero del Jugador 2
+Estado del Tablero del Jugador
+PUNTUACION: 14
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 amarillo:2
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none rojo none celeste
+Fila 2 none none none rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+Tablero del Jugador 1
+Estado del Tablero del Jugador
+PUNTUACION: 14
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 rojo:2
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none negro celeste
+Fila 2 none none none rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+Tablero del Jugador 0
+Estado del Tablero del Jugador
+PUNTUACION: 6
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 none amarillo rojo none none
+Fila 2 celeste azul none none none
+Fila 3 none none none none none
+Fila 4 none negro none none none
+Fila 5 none none none none azul
+============================================
+SUELO: 0
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega de la Fabrica 9 el azulejo amarillo al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Fabrica 7: negro:1 azul:1 amarillo:1 rojo:0 celeste:1
+Fabrica 6: negro:2 azul:0 amarillo:1 rojo:0 celeste:1
+Fabrica 5: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 4: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 3: negro:0 azul:1 amarillo:3 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:2 rojo:0 celeste:2
+Fabrica 1: negro:0 azul:1 amarillo:1 rojo:2 celeste:0
+Centro negro:1 azul:0 amarillo:0 rojo:0 celeste:1
+
+Estado del Tablero del Jugador
+PUNTUACION: 14
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 amarillo:2
+Fila 3 none:0
+Fila 4 rojo:2
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none negro celeste
+Fila 2 none none none rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega de la Fabrica 8 el azulejo negro al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:1 azul:1 amarillo:1 rojo:0 celeste:1
+Fabrica 6: negro:2 azul:0 amarillo:1 rojo:0 celeste:1
+Fabrica 5: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 4: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 3: negro:0 azul:1 amarillo:3 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:2 rojo:0 celeste:2
+Fabrica 1: negro:0 azul:1 amarillo:1 rojo:2 celeste:0
+Centro negro:1 azul:0 amarillo:1 rojo:1 celeste:2
+
+Estado del Tablero del Jugador
+PUNTUACION: 14
+============================================
+PATRONES
+Fila 1 negro:1
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 amarillo:2
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none rojo none celeste
+Fila 2 none none none rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega de la Fabrica 7 el azulejo amarillo al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:2 azul:0 amarillo:1 rojo:0 celeste:1
+Fabrica 5: negro:1 azul:1 amarillo:0 rojo:0 celeste:2
+Fabrica 4: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 3: negro:0 azul:1 amarillo:3 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:2 rojo:0 celeste:2
+Fabrica 1: negro:0 azul:1 amarillo:1 rojo:2 celeste:0
+Centro negro:2 azul:1 amarillo:1 rojo:1 celeste:3
+
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 amarillo:1
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 amarillo:1
+Fila 5 none:0
+============================================
+MURO
+Fila 1 azul none none none celeste
+Fila 2 celeste none none none negro
+Fila 3 none none azul none none
+Fila 4 none none none none none
+Fila 5 none none none celeste none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega de la Fabrica 5 el azulejo azul al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:2 azul:0 amarillo:1 rojo:0 celeste:1
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 3: negro:0 azul:1 amarillo:3 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:2 rojo:0 celeste:2
+Fabrica 1: negro:0 azul:1 amarillo:1 rojo:2 celeste:0
+Centro negro:3 azul:1 amarillo:1 rojo:1 celeste:5
+
+Estado del Tablero del Jugador
+PUNTUACION: 6
+============================================
+PATRONES
+Fila 1 azul:1
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 none amarillo rojo none none
+Fila 2 celeste azul none none none
+Fila 3 none none none none none
+Fila 4 none negro none none none
+Fila 5 none none none none azul
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega del Centro el azulejo rojo al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:2 azul:0 amarillo:1 rojo:0 celeste:1
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 3: negro:0 azul:1 amarillo:3 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:2 rojo:0 celeste:2
+Fabrica 1: negro:0 azul:1 amarillo:1 rojo:2 celeste:0
+Centro negro:3 azul:1 amarillo:1 rojo:0 celeste:5
+
+Estado del Tablero del Jugador
+PUNTUACION: 14
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 amarillo:2
+Fila 3 none:0
+Fila 4 rojo:2
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none negro celeste
+Fila 2 none none none rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega de la Fabrica 2 el azulejo amarillo al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:2 azul:0 amarillo:1 rojo:0 celeste:1
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 3: negro:0 azul:1 amarillo:3 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:1 amarillo:1 rojo:2 celeste:0
+Centro negro:3 azul:1 amarillo:1 rojo:0 celeste:7
+
+Estado del Tablero del Jugador
+PUNTUACION: 14
+============================================
+PATRONES
+Fila 1 negro:1
+Fila 2 amarillo:2
+Fila 3 none:0
+Fila 4 amarillo:2
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none rojo none celeste
+Fila 2 none none none rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega del Centro el azulejo negro al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:2 azul:0 amarillo:1 rojo:0 celeste:1
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 3: negro:0 azul:1 amarillo:3 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:1 amarillo:1 rojo:2 celeste:0
+Centro negro:0 azul:1 amarillo:1 rojo:0 celeste:7
+
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 amarillo:1
+Fila 2 none:0
+Fila 3 negro:3
+Fila 4 amarillo:1
+Fila 5 none:0
+============================================
+MURO
+Fila 1 azul none none none celeste
+Fila 2 celeste none none none negro
+Fila 3 none none azul none none
+Fila 4 none none none none none
+Fila 5 none none none celeste none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega de la Fabrica 3 el azulejo amarillo al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:2 azul:0 amarillo:1 rojo:0 celeste:1
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:1 amarillo:1 rojo:2 celeste:0
+Centro negro:0 azul:2 amarillo:1 rojo:0 celeste:7
+
+Estado del Tablero del Jugador
+PUNTUACION: 6
+============================================
+PATRONES
+Fila 1 azul:1
+Fila 2 amarillo:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 none amarillo rojo none none
+Fila 2 celeste azul none none none
+Fila 3 none none none none none
+Fila 4 none negro none none none
+Fila 5 none none none none azul
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega de la Fabrica 1 el azulejo rojo al patron en la fila 4
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:2 azul:0 amarillo:1 rojo:0 celeste:1
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:3 amarillo:2 rojo:0 celeste:7
+
+Estado del Tablero del Jugador
+PUNTUACION: 14
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 amarillo:2
+Fila 3 none:0
+Fila 4 rojo:4
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none negro celeste
+Fila 2 none none none rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega del Centro el azulejo amarillo al patron en la fila 4
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:2 azul:0 amarillo:1 rojo:0 celeste:1
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:3 amarillo:0 rojo:0 celeste:7
+
+Estado del Tablero del Jugador
+PUNTUACION: 14
+============================================
+PATRONES
+Fila 1 negro:1
+Fila 2 amarillo:2
+Fila 3 none:0
+Fila 4 amarillo:4
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none rojo none celeste
+Fila 2 none none none rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega del Centro el azulejo azul al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:2 azul:0 amarillo:1 rojo:0 celeste:1
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:7
+
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 amarillo:1
+Fila 2 azul:2
+Fila 3 negro:3
+Fila 4 amarillo:1
+Fila 5 none:0
+============================================
+MURO
+Fila 1 azul none none none celeste
+Fila 2 celeste none none none negro
+Fila 3 none none azul none none
+Fila 4 none none none none none
+Fila 5 none none none celeste none
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega de la Fabrica 6 el azulejo celeste al patron en la fila 4
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:2 azul:0 amarillo:1 rojo:0 celeste:7
+
+Estado del Tablero del Jugador
+PUNTUACION: 6
+============================================
+PATRONES
+Fila 1 azul:1
+Fila 2 amarillo:2
+Fila 3 none:0
+Fila 4 celeste:1
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 none amarillo rojo none none
+Fila 2 celeste azul none none none
+Fila 3 none none none none none
+Fila 4 none negro none none none
+Fila 5 none none none none azul
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega del Centro el azulejo negro al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:1 rojo:0 celeste:2
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:0 amarillo:1 rojo:0 celeste:7
+
+Estado del Tablero del Jugador
+PUNTUACION: 14
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 amarillo:2
+Fila 3 negro:2
+Fila 4 rojo:4
+Fila 5 celeste:1
+============================================
+MURO
+Fila 1 none none none negro celeste
+Fila 2 none none none rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega de la Fabrica 4 el azulejo celeste al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:1 amarillo:2 rojo:0 celeste:7
+
+Estado del Tablero del Jugador
+PUNTUACION: 14
+============================================
+PATRONES
+Fila 1 negro:1
+Fila 2 amarillo:2
+Fila 3 celeste:2
+Fila 4 amarillo:4
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none rojo none celeste
+Fila 2 none none none rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega del Centro el azulejo amarillo al patron en la fila 5
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:1 amarillo:0 rojo:0 celeste:7
+
+Estado del Tablero del Jugador
+PUNTUACION: 2
+============================================
+PATRONES
+Fila 1 amarillo:1
+Fila 2 azul:2
+Fila 3 negro:3
+Fila 4 amarillo:1
+Fila 5 amarillo:2
+============================================
+MURO
+Fila 1 azul none none none celeste
+Fila 2 celeste none none none negro
+Fila 3 none none azul none none
+Fila 4 none none none none none
+Fila 5 none none none celeste none
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega del Centro el azulejo azul al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:7
+
+Estado del Tablero del Jugador
+PUNTUACION: 6
+============================================
+PATRONES
+Fila 1 azul:1
+Fila 2 amarillo:2
+Fila 3 azul:1
+Fila 4 celeste:1
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 none amarillo rojo none none
+Fila 2 celeste azul none none none
+Fila 3 none none none none none
+Fila 4 none negro none none none
+Fila 5 none none none none azul
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega del Centro el azulejo celeste al patron en la fila 5
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 14
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 amarillo:2
+Fila 3 negro:2
+Fila 4 rojo:4
+Fila 5 celeste:5
+============================================
+MURO
+Fila 1 none none none negro celeste
+Fila 2 none none none rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none none
+Fila 5 none none none none none
+============================================
+SUELO: 4
+
+
+Ronda: 4
+Accion: Bolsa Rellenada
+Accion: Fabricas Rellenadas
+Fabrica 9: negro:1 azul:0 amarillo:0 rojo:0 celeste:3
+Fabrica 8: negro:1 azul:0 amarillo:2 rojo:0 celeste:1
+Fabrica 7: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 6: negro:1 azul:0 amarillo:0 rojo:0 celeste:3
+Fabrica 5: negro:2 azul:0 amarillo:0 rojo:1 celeste:1
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:1 celeste:1
+Fabrica 3: negro:0 azul:1 amarillo:2 rojo:0 celeste:1
+Fabrica 2: negro:0 azul:2 amarillo:0 rojo:2 celeste:0
+Fabrica 1: negro:2 azul:0 amarillo:1 rojo:1 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Jugador Inicial: 1
+
+Tablero del Jugador 3
+Estado del Tablero del Jugador
+PUNTUACION: 10
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 amarillo:1
+Fila 5 amarillo:2
+============================================
+MURO
+Fila 1 azul amarillo none none celeste
+Fila 2 celeste azul none none negro
+Fila 3 negro none azul none none
+Fila 4 none none none none none
+Fila 5 none none none celeste none
+============================================
+SUELO: 0
+
+Tablero del Jugador 2
+Estado del Tablero del Jugador
+PUNTUACION: 29
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 celeste:2
+Fila 4 none:0
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none rojo negro celeste
+Fila 2 none none amarillo rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none amarillo
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+Tablero del Jugador 1
+Estado del Tablero del Jugador
+PUNTUACION: 18
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 negro:2
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none rojo negro celeste
+Fila 2 none none amarillo rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 rojo none none none none
+Fila 5 none none none celeste none
+============================================
+SUELO: 0
+
+Tablero del Jugador 0
+Estado del Tablero del Jugador
+PUNTUACION: 15
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 azul:1
+Fila 4 celeste:1
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 azul amarillo rojo none none
+Fila 2 celeste azul amarillo none none
+Fila 3 none none none none none
+Fila 4 none negro none none none
+Fila 5 none none none none azul
+============================================
+SUELO: 0
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega de la Fabrica 2 el azulejo azul al patron en la fila 2
+Fabrica 9: negro:1 azul:0 amarillo:0 rojo:0 celeste:3
+Fabrica 8: negro:1 azul:0 amarillo:2 rojo:0 celeste:1
+Fabrica 7: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 6: negro:1 azul:0 amarillo:0 rojo:0 celeste:3
+Fabrica 5: negro:2 azul:0 amarillo:0 rojo:1 celeste:1
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:1 celeste:1
+Fabrica 3: negro:0 azul:1 amarillo:2 rojo:0 celeste:1
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:2 azul:0 amarillo:1 rojo:1 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:2 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 18
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 azul:2
+Fila 3 negro:2
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none rojo negro celeste
+Fila 2 none none amarillo rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 rojo none none none none
+Fila 5 none none none celeste none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega de la Fabrica 1 el azulejo amarillo al patron en la fila 1
+Fabrica 9: negro:1 azul:0 amarillo:0 rojo:0 celeste:3
+Fabrica 8: negro:1 azul:0 amarillo:2 rojo:0 celeste:1
+Fabrica 7: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 6: negro:1 azul:0 amarillo:0 rojo:0 celeste:3
+Fabrica 5: negro:2 azul:0 amarillo:0 rojo:1 celeste:1
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:1 celeste:1
+Fabrica 3: negro:0 azul:1 amarillo:2 rojo:0 celeste:1
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:2 azul:0 amarillo:0 rojo:3 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 29
+============================================
+PATRONES
+Fila 1 amarillo:1
+Fila 2 none:0
+Fila 3 celeste:2
+Fila 4 none:0
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none rojo negro celeste
+Fila 2 none none amarillo rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none amarillo
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega de la Fabrica 9 el azulejo celeste al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:1 azul:0 amarillo:2 rojo:0 celeste:1
+Fabrica 7: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 6: negro:1 azul:0 amarillo:0 rojo:0 celeste:3
+Fabrica 5: negro:2 azul:0 amarillo:0 rojo:1 celeste:1
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:1 celeste:1
+Fabrica 3: negro:0 azul:1 amarillo:2 rojo:0 celeste:1
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:3 azul:0 amarillo:0 rojo:3 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 10
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 celeste:3
+Fila 4 amarillo:1
+Fila 5 amarillo:2
+============================================
+MURO
+Fila 1 azul amarillo none none celeste
+Fila 2 celeste azul none none negro
+Fila 3 negro none azul none none
+Fila 4 none none none none none
+Fila 5 none none none celeste none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega de la Fabrica 8 el azulejo negro al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:2 rojo:2 celeste:0
+Fabrica 6: negro:1 azul:0 amarillo:0 rojo:0 celeste:3
+Fabrica 5: negro:2 azul:0 amarillo:0 rojo:1 celeste:1
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:1 celeste:1
+Fabrica 3: negro:0 azul:1 amarillo:2 rojo:0 celeste:1
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:3 azul:0 amarillo:2 rojo:3 celeste:1
+
+Estado del Tablero del Jugador
+PUNTUACION: 15
+============================================
+PATRONES
+Fila 1 negro:1
+Fila 2 none:0
+Fila 3 azul:1
+Fila 4 celeste:1
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 azul amarillo rojo none none
+Fila 2 celeste azul amarillo none none
+Fila 3 none none none none none
+Fila 4 none negro none none none
+Fila 5 none none none none azul
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega de la Fabrica 7 el azulejo amarillo al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:1 azul:0 amarillo:0 rojo:0 celeste:3
+Fabrica 5: negro:2 azul:0 amarillo:0 rojo:1 celeste:1
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:1 celeste:1
+Fabrica 3: negro:0 azul:1 amarillo:2 rojo:0 celeste:1
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:3 azul:0 amarillo:2 rojo:5 celeste:1
+
+Estado del Tablero del Jugador
+PUNTUACION: 18
+============================================
+PATRONES
+Fila 1 amarillo:1
+Fila 2 azul:2
+Fila 3 negro:2
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none rojo negro celeste
+Fila 2 none none amarillo rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 rojo none none none none
+Fila 5 none none none celeste none
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega de la Fabrica 5 el azulejo celeste al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:1 azul:0 amarillo:0 rojo:0 celeste:3
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:2 rojo:1 celeste:1
+Fabrica 3: negro:0 azul:1 amarillo:2 rojo:0 celeste:1
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:5 azul:0 amarillo:2 rojo:6 celeste:1
+
+Estado del Tablero del Jugador
+PUNTUACION: 29
+============================================
+PATRONES
+Fila 1 amarillo:1
+Fila 2 none:0
+Fila 3 celeste:3
+Fila 4 none:0
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none rojo negro celeste
+Fila 2 none none amarillo rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none amarillo
+Fila 5 none none none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega de la Fabrica 4 el azulejo amarillo al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:1 azul:0 amarillo:0 rojo:0 celeste:3
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:1 amarillo:2 rojo:0 celeste:1
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:5 azul:0 amarillo:2 rojo:7 celeste:2
+
+Estado del Tablero del Jugador
+PUNTUACION: 10
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 amarillo:2
+Fila 3 celeste:3
+Fila 4 amarillo:1
+Fila 5 amarillo:2
+============================================
+MURO
+Fila 1 azul amarillo none none celeste
+Fila 2 celeste azul none none negro
+Fila 3 negro none azul none none
+Fila 4 none none none none none
+Fila 5 none none none celeste none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega de la Fabrica 6 el azulejo celeste al patron en la fila 4
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:1 amarillo:2 rojo:0 celeste:1
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:6 azul:0 amarillo:2 rojo:7 celeste:2
+
+Estado del Tablero del Jugador
+PUNTUACION: 15
+============================================
+PATRONES
+Fila 1 negro:1
+Fila 2 none:0
+Fila 3 azul:1
+Fila 4 celeste:4
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 azul amarillo rojo none none
+Fila 2 celeste azul amarillo none none
+Fila 3 none none none none none
+Fila 4 none negro none none none
+Fila 5 none none none none azul
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega de la Fabrica 3 el azulejo celeste al patron en la fila 4
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:6 azul:1 amarillo:4 rojo:7 celeste:2
+
+Estado del Tablero del Jugador
+PUNTUACION: 18
+============================================
+PATRONES
+Fila 1 amarillo:1
+Fila 2 azul:2
+Fila 3 negro:2
+Fila 4 celeste:1
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none none rojo negro celeste
+Fila 2 none none amarillo rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 rojo none none none none
+Fila 5 none none none celeste none
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega del Centro el azulejo celeste al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:6 azul:1 amarillo:4 rojo:7 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 29
+============================================
+PATRONES
+Fila 1 amarillo:1
+Fila 2 celeste:2
+Fila 3 celeste:3
+Fila 4 none:0
+Fila 5 rojo:1
+============================================
+MURO
+Fila 1 none none rojo negro celeste
+Fila 2 none none amarillo rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none amarillo
+Fila 5 none none none none none
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega del Centro el azulejo amarillo al patron en la fila 5
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:6 azul:1 amarillo:0 rojo:7 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 10
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 amarillo:2
+Fila 3 celeste:3
+Fila 4 amarillo:1
+Fila 5 amarillo:5
+============================================
+MURO
+Fila 1 azul amarillo none none celeste
+Fila 2 celeste azul none none negro
+Fila 3 negro none azul none none
+Fila 4 none none none none none
+Fila 5 none none none celeste none
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega del Centro el azulejo azul al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:6 azul:0 amarillo:0 rojo:7 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 15
+============================================
+PATRONES
+Fila 1 negro:1
+Fila 2 none:0
+Fila 3 azul:2
+Fila 4 celeste:4
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 azul amarillo rojo none none
+Fila 2 celeste azul amarillo none none
+Fila 3 none none none none none
+Fila 4 none negro none none none
+Fila 5 none none none none azul
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega del Centro el azulejo negro al patron en la fila 5
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:7 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 18
+============================================
+PATRONES
+Fila 1 amarillo:1
+Fila 2 azul:2
+Fila 3 negro:2
+Fila 4 celeste:1
+Fila 5 negro:5
+============================================
+MURO
+Fila 1 none none rojo negro celeste
+Fila 2 none none amarillo rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 rojo none none none none
+Fila 5 none none none celeste none
+============================================
+SUELO: 2
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega del Centro el azulejo rojo al patron en la fila 5
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 29
+============================================
+PATRONES
+Fila 1 amarillo:1
+Fila 2 celeste:2
+Fila 3 celeste:3
+Fila 4 none:0
+Fila 5 rojo:5
+============================================
+MURO
+Fila 1 none none rojo negro celeste
+Fila 2 none none amarillo rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 none none none none amarillo
+Fila 5 none none none none none
+============================================
+SUELO: 4
+
+
+Ronda: 5
+Accion: Bolsa Rellenada
+Accion: Fabricas Rellenadas
+Fabrica 9: negro:0 azul:1 amarillo:3 rojo:0 celeste:0
+Fabrica 8: negro:1 azul:1 amarillo:2 rojo:0 celeste:0
+Fabrica 7: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Fabrica 6: negro:1 azul:1 amarillo:1 rojo:1 celeste:0
+Fabrica 5: negro:0 azul:2 amarillo:0 rojo:1 celeste:1
+Fabrica 4: negro:0 azul:1 amarillo:0 rojo:0 celeste:3
+Fabrica 3: negro:2 azul:2 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:1 amarillo:0 rojo:2 celeste:1
+Fabrica 1: negro:1 azul:0 amarillo:0 rojo:2 celeste:1
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Jugador Inicial: 2
+
+Tablero del Jugador 3
+Estado del Tablero del Jugador
+PUNTUACION: 21
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 amarillo:1
+Fila 5 none:0
+============================================
+MURO
+Fila 1 azul amarillo none none celeste
+Fila 2 celeste azul amarillo none negro
+Fila 3 negro celeste azul none none
+Fila 4 none none none none none
+Fila 5 amarillo none none celeste none
+============================================
+SUELO: 0
+
+Tablero del Jugador 2
+Estado del Tablero del Jugador
+PUNTUACION: 30
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none amarillo rojo negro celeste
+Fila 2 celeste none amarillo rojo negro
+Fila 3 none celeste none amarillo rojo
+Fila 4 none none none none amarillo
+Fila 5 none rojo none none none
+============================================
+SUELO: 0
+
+Tablero del Jugador 1
+Estado del Tablero del Jugador
+PUNTUACION: 28
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 negro:2
+Fila 4 celeste:1
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none amarillo rojo negro celeste
+Fila 2 none azul amarillo rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 rojo none none none none
+Fila 5 none none negro celeste none
+============================================
+SUELO: 0
+
+Tablero del Jugador 0
+Estado del Tablero del Jugador
+PUNTUACION: 21
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 azul:2
+Fila 4 none:0
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 azul amarillo rojo negro none
+Fila 2 celeste azul amarillo none none
+Fila 3 none none none none none
+Fila 4 none negro celeste none none
+Fila 5 none none none none azul
+============================================
+SUELO: 0
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega de la Fabrica 5 el azulejo azul al patron en la fila 2
+Fabrica 9: negro:0 azul:1 amarillo:3 rojo:0 celeste:0
+Fabrica 8: negro:1 azul:1 amarillo:2 rojo:0 celeste:0
+Fabrica 7: negro:1 azul:0 amarillo:1 rojo:1 celeste:1
+Fabrica 6: negro:1 azul:1 amarillo:1 rojo:1 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:0 rojo:0 celeste:3
+Fabrica 3: negro:2 azul:2 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:1 amarillo:0 rojo:2 celeste:1
+Fabrica 1: negro:1 azul:0 amarillo:0 rojo:2 celeste:1
+Centro negro:0 azul:0 amarillo:0 rojo:1 celeste:1
+
+Estado del Tablero del Jugador
+PUNTUACION: 30
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 azul:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none amarillo rojo negro celeste
+Fila 2 celeste none amarillo rojo negro
+Fila 3 none celeste none amarillo rojo
+Fila 4 none none none none amarillo
+Fila 5 none rojo none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega de la Fabrica 7 el azulejo rojo al patron en la fila 1
+Fabrica 9: negro:0 azul:1 amarillo:3 rojo:0 celeste:0
+Fabrica 8: negro:1 azul:1 amarillo:2 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:1 azul:1 amarillo:1 rojo:1 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:0 rojo:0 celeste:3
+Fabrica 3: negro:2 azul:2 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:1 amarillo:0 rojo:2 celeste:1
+Fabrica 1: negro:1 azul:0 amarillo:0 rojo:2 celeste:1
+Centro negro:1 azul:0 amarillo:1 rojo:1 celeste:2
+
+Estado del Tablero del Jugador
+PUNTUACION: 21
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 amarillo:1
+Fila 5 none:0
+============================================
+MURO
+Fila 1 azul amarillo none none celeste
+Fila 2 celeste azul amarillo none negro
+Fila 3 negro celeste azul none none
+Fila 4 none none none none none
+Fila 5 amarillo none none celeste none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega de la Fabrica 2 el azulejo rojo al patron en la fila 2
+Fabrica 9: negro:0 azul:1 amarillo:3 rojo:0 celeste:0
+Fabrica 8: negro:1 azul:1 amarillo:2 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:1 azul:1 amarillo:1 rojo:1 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:0 rojo:0 celeste:3
+Fabrica 3: negro:2 azul:2 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:1 azul:0 amarillo:0 rojo:2 celeste:1
+Centro negro:1 azul:1 amarillo:1 rojo:1 celeste:3
+
+Estado del Tablero del Jugador
+PUNTUACION: 21
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 rojo:2
+Fila 3 azul:2
+Fila 4 none:0
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 azul amarillo rojo negro none
+Fila 2 celeste azul amarillo none none
+Fila 3 none none none none none
+Fila 4 none negro celeste none none
+Fila 5 none none none none azul
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega de la Fabrica 9 el azulejo azul al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:1 azul:1 amarillo:2 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:1 azul:1 amarillo:1 rojo:1 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:0 rojo:0 celeste:3
+Fabrica 3: negro:2 azul:2 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:1 azul:0 amarillo:0 rojo:2 celeste:1
+Centro negro:1 azul:1 amarillo:4 rojo:1 celeste:3
+
+Estado del Tablero del Jugador
+PUNTUACION: 28
+============================================
+PATRONES
+Fila 1 azul:1
+Fila 2 none:0
+Fila 3 negro:2
+Fila 4 celeste:1
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none amarillo rojo negro celeste
+Fila 2 none azul amarillo rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 rojo none none none none
+Fila 5 none none negro celeste none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega de la Fabrica 8 el azulejo azul al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:1 azul:1 amarillo:1 rojo:1 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:0 rojo:0 celeste:3
+Fabrica 3: negro:2 azul:2 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:1 azul:0 amarillo:0 rojo:2 celeste:1
+Centro negro:2 azul:1 amarillo:6 rojo:1 celeste:3
+
+Estado del Tablero del Jugador
+PUNTUACION: 30
+============================================
+PATRONES
+Fila 1 azul:1
+Fila 2 azul:2
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none amarillo rojo negro celeste
+Fila 2 celeste none amarillo rojo negro
+Fila 3 none celeste none amarillo rojo
+Fila 4 none none none none amarillo
+Fila 5 none rojo none none none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega de la Fabrica 1 el azulejo rojo al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:1 azul:1 amarillo:1 rojo:1 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:0 rojo:0 celeste:3
+Fabrica 3: negro:2 azul:2 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:3 azul:1 amarillo:6 rojo:1 celeste:4
+
+Estado del Tablero del Jugador
+PUNTUACION: 21
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 rojo:2
+Fila 3 none:0
+Fila 4 amarillo:1
+Fila 5 none:0
+============================================
+MURO
+Fila 1 azul amarillo none none celeste
+Fila 2 celeste azul amarillo none negro
+Fila 3 negro celeste azul none none
+Fila 4 none none none none none
+Fila 5 amarillo none none celeste none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega de la Fabrica 6 el azulejo azul al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:1 amarillo:0 rojo:0 celeste:3
+Fabrica 3: negro:2 azul:2 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:4 azul:1 amarillo:7 rojo:2 celeste:4
+
+Estado del Tablero del Jugador
+PUNTUACION: 21
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 rojo:2
+Fila 3 azul:3
+Fila 4 none:0
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 azul amarillo rojo negro none
+Fila 2 celeste azul amarillo none none
+Fila 3 none none none none none
+Fila 4 none negro celeste none none
+Fila 5 none none none none azul
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega de la Fabrica 4 el azulejo celeste al patron en la fila 2
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:2 azul:2 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:4 azul:2 amarillo:7 rojo:2 celeste:4
+
+Estado del Tablero del Jugador
+PUNTUACION: 28
+============================================
+PATRONES
+Fila 1 azul:1
+Fila 2 celeste:2
+Fila 3 negro:2
+Fila 4 celeste:1
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none amarillo rojo negro celeste
+Fila 2 none azul amarillo rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 rojo none none none none
+Fila 5 none none negro celeste none
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega del Centro el azulejo negro al patron en la fila 4
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:2 azul:2 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:2 amarillo:7 rojo:2 celeste:4
+
+Estado del Tablero del Jugador
+PUNTUACION: 30
+============================================
+PATRONES
+Fila 1 azul:1
+Fila 2 azul:2
+Fila 3 none:0
+Fila 4 negro:4
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none amarillo rojo negro celeste
+Fila 2 celeste none amarillo rojo negro
+Fila 3 none celeste none amarillo rojo
+Fila 4 none none none none amarillo
+Fila 5 none rojo none none none
+============================================
+SUELO: 1
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega del Centro el azulejo rojo al patron en la fila 5
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:2 azul:2 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:2 amarillo:7 rojo:0 celeste:4
+
+Estado del Tablero del Jugador
+PUNTUACION: 21
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 rojo:2
+Fila 3 none:0
+Fila 4 amarillo:1
+Fila 5 rojo:2
+============================================
+MURO
+Fila 1 azul amarillo none none celeste
+Fila 2 celeste azul amarillo none negro
+Fila 3 negro celeste azul none none
+Fila 4 none none none none none
+Fila 5 amarillo none none celeste none
+============================================
+SUELO: 0
+
+
+Accion: Juega el Jugador 0
+El Jugador 0 juega del Centro el azulejo celeste al patron en la fila 1
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:2 azul:2 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:2 amarillo:7 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 21
+============================================
+PATRONES
+Fila 1 celeste:1
+Fila 2 rojo:2
+Fila 3 azul:3
+Fila 4 none:0
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 azul amarillo rojo negro none
+Fila 2 celeste azul amarillo none none
+Fila 3 none none none none none
+Fila 4 none negro celeste none none
+Fila 5 none none none none azul
+============================================
+SUELO: 3
+
+
+Accion: Juega el Jugador 1
+El Jugador 1 juega de la Fabrica 3 el azulejo negro al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:4 amarillo:7 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 28
+============================================
+PATRONES
+Fila 1 azul:1
+Fila 2 celeste:2
+Fila 3 negro:3
+Fila 4 celeste:1
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none amarillo rojo negro celeste
+Fila 2 none azul amarillo rojo negro
+Fila 3 none none none amarillo rojo
+Fila 4 rojo none none none none
+Fila 5 none none negro celeste none
+============================================
+SUELO: 2
+
+
+Accion: Juega el Jugador 2
+El Jugador 2 juega del Centro el azulejo azul al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:0 amarillo:7 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 30
+============================================
+PATRONES
+Fila 1 azul:1
+Fila 2 azul:2
+Fila 3 azul:3
+Fila 4 negro:4
+Fila 5 none:0
+============================================
+MURO
+Fila 1 none amarillo rojo negro celeste
+Fila 2 celeste none amarillo rojo negro
+Fila 3 none celeste none amarillo rojo
+Fila 4 none none none none amarillo
+Fila 5 none rojo none none none
+============================================
+SUELO: 2
+
+
+Accion: Juega el Jugador 3
+El Jugador 3 juega del Centro el azulejo amarillo al patron en la fila 3
+Fabrica 9: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 8: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 7: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 6: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 5: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 4: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 3: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 2: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Fabrica 1: negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+Centro negro:0 azul:0 amarillo:0 rojo:0 celeste:0
+
+Estado del Tablero del Jugador
+PUNTUACION: 21
+============================================
+PATRONES
+Fila 1 rojo:1
+Fila 2 rojo:2
+Fila 3 amarillo:3
+Fila 4 amarillo:1
+Fila 5 rojo:2
+============================================
+MURO
+Fila 1 azul amarillo none none celeste
+Fila 2 celeste azul amarillo none negro
+Fila 3 negro celeste azul none none
+Fila 4 none none none none none
+Fila 5 amarillo none none celeste none
+============================================
+SUELO: 4
+
+
+ESTADO FINAL
+Tablero del Jugador 3
+Estado del Tablero del Jugador
+PUNTUACION: 32
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 amarillo:1
+Fila 5 rojo:2
+============================================
+MURO
+Fila 1 azul amarillo rojo none celeste
+Fila 2 celeste azul amarillo rojo negro
+Fila 3 negro celeste azul amarillo none
+Fila 4 none none none none none
+Fila 5 amarillo none none celeste none
+============================================
+SUELO: 0
+
+Tablero del Jugador 2
+Estado del Tablero del Jugador
+PUNTUACION: 55
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 none:0
+============================================
+MURO
+Fila 1 azul amarillo rojo negro celeste
+Fila 2 celeste azul amarillo rojo negro
+Fila 3 none celeste azul amarillo rojo
+Fila 4 none negro none none amarillo
+Fila 5 none rojo none none none
+============================================
+SUELO: 0
+
+Tablero del Jugador 1
+Estado del Tablero del Jugador
+PUNTUACION: 42
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 celeste:1
+Fila 5 none:0
+============================================
+MURO
+Fila 1 azul amarillo rojo negro celeste
+Fila 2 celeste azul amarillo rojo negro
+Fila 3 negro none none amarillo rojo
+Fila 4 rojo none none none none
+Fila 5 none none negro celeste none
+============================================
+SUELO: 0
+
+Tablero del Jugador 0
+Estado del Tablero del Jugador
+PUNTUACION: 32
+============================================
+PATRONES
+Fila 1 none:0
+Fila 2 none:0
+Fila 3 none:0
+Fila 4 none:0
+Fila 5 negro:2
+============================================
+MURO
+Fila 1 azul amarillo rojo negro celeste
+Fila 2 celeste azul amarillo rojo none
+Fila 3 none none azul none none
+Fila 4 none negro celeste none none
+Fila 5 none none none none azul
+============================================
+SUELO: 0
+
+Partida Finalizada!!
+PUNTUACION ADICIONAL
+Puntuacion de Jugador 3 es 34
+Puntuacion de Jugador 2 es 66
+Puntuacion de Jugador 1 es 46
+Puntuacion de Jugador 0 es 34
+El Ganador es: 2
